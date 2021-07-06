@@ -13,6 +13,6 @@ class Pages extends Controller
     }
     public function about()
     {
-        echo "About";
+        $this->view('pages/about');
     }
 }
