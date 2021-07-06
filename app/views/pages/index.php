@@ -1,1 +1,1 @@
-MVC is working!
+<?php
